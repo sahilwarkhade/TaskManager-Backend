@@ -16,13 +16,13 @@ To get started with the To-Do List Application, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-       git clone https://github.com/sahilwarkhade/Chaintech-Assignment.git
+       git clone https://github.com/sahilwarkhade/TaskManager-Backend.git
     ```
 
 2. **Go to the code directory:**
 
     ```bash
-       cd Chaintech-Assignment
+       cd TaskManager-Backend
     ```
 
 3. **Install npm modules:**
